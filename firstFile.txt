@@ -1,3 +1,4 @@
+UserA adds new first line
 The new first line
 Matt is adding nifty new content!
 This is the initial contents
