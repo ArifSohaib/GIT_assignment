@@ -1,4 +1,5 @@
 UserA adds new first line
+UserA modifies first file
 The new first line
 Matt is adding nifty new content!
 This is the initial contents
